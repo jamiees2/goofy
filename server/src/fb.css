@@ -51,14 +51,6 @@ html {
     display: none;
 }
 
-
-/* replace emojis */
-.emoticon, ._1az {
-    background-image: none !important;
-    width: auto !important;
-    height: auto !important;
-}
-
 /* "Get the app"-banner */
 ._s15 {
     display: none;
